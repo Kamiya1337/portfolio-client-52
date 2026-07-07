@@ -30,7 +30,7 @@ export default function Sidebar({ activeTab, setActiveTab, isMobileOpen, setIsMo
             <div className="w-11 h-11 rounded-full bg-academic-blue flex items-center justify-center text-white font-bold text-sm tracking-wide shadow-lg ring-2 ring-blue-300/30">M</div>
             <div>
               <h2 className="text-xl font-bold text-white leading-tight">Nguyễn Chi Mai</h2>
-              <span className="text-xs text-blue-300 font-medium">Ngôn ngữ và Văn hóa Pháp</span>
+              <span className="text-xs text-blue-300 font-medium">Ngôn ngữ và Văn hóa Anh</span>
               <span className="block text-[11px] text-slate-400 mt-0.5">ULIS - VNU</span>
             </div>
           </div>

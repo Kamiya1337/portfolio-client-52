@@ -30,7 +30,7 @@ export default function PrintView() {
         
         {/* LỜI ĐẦU / HEADER TIÊU ĐỀ TRANG IN */}
         <div className="text-center border-b-2 border-slate-800 pb-6 print-section">
-          <h1 className="text-2xl md:text-3xl font-black uppercase text-slate-900 tracking-wide">French  LANGUAGE & CULTURE LEARNING PORTFOLIO</h1>
+          <h1 className="text-2xl md:text-3xl font-black uppercase text-slate-900 tracking-wide">English  LANGUAGE & CULTURE LEARNING PORTFOLIO</h1>
           <h2 className="text-md md:text-lg font-bold text-slate-700 mt-1">Môn học: Nhập môn Công nghệ số và Ứng dụng Trí tuệ nhân tạo</h2>
           <div className="w-16 h-1 bg-slate-800 mx-auto mt-4"></div>
         </div>
