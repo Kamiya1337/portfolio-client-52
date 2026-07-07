@@ -27,9 +27,9 @@ export default function Sidebar({ activeTab, setActiveTab, isMobileOpen, setIsMo
       <nav className={`${isMobileOpen ? 'translate-x-0' : '-translate-x-full'} md:translate-x-0 fixed md:static inset-y-0 left-0 w-72 bg-academic-sidebar text-slate-300 transition-transform duration-300 ease-in-out z-40 flex flex-col shadow-2xl print:hidden`}>
           <div className="p-6 border-b border-academic-sidebar-border">
           <div className="flex items-center gap-3 mb-2">
-            <div className="w-11 h-11 rounded-full bg-academic-blue flex items-center justify-center text-white font-bold text-sm tracking-wide shadow-lg ring-2 ring-blue-300/30">QA</div>
+            <div className="w-11 h-11 rounded-full bg-academic-blue flex items-center justify-center text-white font-bold text-sm tracking-wide shadow-lg ring-2 ring-blue-300/30">M</div>
             <div>
-              <h2 className="text-xl font-bold text-white leading-tight">Thảo Vân</h2>
+              <h2 className="text-xl font-bold text-white leading-tight">Nguyễn Chi Mai</h2>
               <span className="text-xs text-blue-300 font-medium">Ngôn ngữ và Văn hóa Pháp</span>
               <span className="block text-[11px] text-slate-400 mt-0.5">ULIS - VNU</span>
             </div>

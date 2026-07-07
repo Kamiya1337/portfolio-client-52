@@ -82,12 +82,12 @@ export default function HomeTab({ setActiveTab }) {
                 <div className="relative overflow-hidden rounded-2xl">
                   <img
                     src="/avatar.jpg"
-                    alt="Thảo Vân"
+                    alt="Nguyễn Chi Mai"
                     className="h-72 w-full object-cover"
                   />
 
                   <span className="absolute bottom-3 left-3 rounded-lg bg-slate-950/85 px-3 py-2 text-xs font-bold text-blue-200 shadow-sm backdrop-blur-sm">
-                    Thảo Vân
+                    Nguyễn Chi Mai
                   </span>
                 </div>
               </div>
